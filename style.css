@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #fd697a;
+    background-color: #f760b3;
 }
 
 .media {
-    background-color: #edeb74;
+    background-color: #ef2bab;
     width: 50%;
 }
 
 .forte {
-    background-color: #8efac6;
+    background-color: #960a75;
     width: 100%;
 }
 
@@ -155,4 +155,9 @@ label {
     .parametro-coluna__senha {
         flex-direction: row;
     }
+}
+img {
+
+    height: 100px;
+    width: 100px;
 }
